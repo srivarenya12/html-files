@@ -1,0 +1,229 @@
+*{
+    margin:0;
+}
+.nav-container li{
+    display:inline;
+    padding:20px;
+    margin:20px;
+}
+.nav-container ul{
+    background-color: black;
+    border-radius: 30px;
+}
+.nav-container li a{
+    color:white;
+    text-decoration: none;
+    font-size:20px;
+}
+.nav-container li a:hover{
+    background-color: gray;
+}
+#banner-image{
+    width:100%;
+    opacity:0.4;
+    border-radius: 30px;
+}
+.banner-title{
+    position:absolute;
+    top:40%;
+    left:45%;
+    font-size: 5em;
+}
+.banner-subtitle{
+    position:absolute;
+    top:53%;
+    left:50%;
+    font-size: 2em;
+    color:blue;
+
+}
+.products-heading{
+    margin:20px;
+    font-size: 50px;
+    text-align: center;
+}
+.products{
+    display:flex;
+    /horizontal aligment/
+    justify-content:space-evenly;
+}
+.product{
+    display:flex;
+     /* vertical aligment*/
+    align-items:center;
+}
+.product-text{
+    font-size: 1.5em;
+}
+#product-ramipril{
+    width: 100px;
+    height: 100px;
+}
+#product-amiodrone{
+    width: 100px;
+    height: 100px;
+}
+#product-digoxen{
+    width: 100px;
+    height: 100px;
+}
+#product-losarten{
+    width: 100px;
+    height: 100px;
+}
+#product-statins{
+    width: 100px;
+    height: 100px;
+}
+#product-warfarin{
+    width: 100px;
+    height: 100px;
+}
+
+/* .contact-container{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+} */
+.contact-heading{
+    margin:10px;
+    font-size: 50px;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    font-size: medium;
+}
+
+
+#products-container{
+    background-color: lavender;
+    border-radius: 30px;
+}
+
+#contact-container{
+    background-color: pink;
+    border-radius: 30px;
+
+}
+header{
+    text-align: center;
+    background-color: aqua;
+    font-size: x-large;
+    padding: 20px;
+    border-radius: 30px;
+}*{
+    margin:0;
+}
+.nav-container li{
+    display:inline;
+    padding:20px;
+    margin:20px;
+}
+.nav-container ul{
+    background-color: black;
+    border-radius: 30px;
+}
+.nav-container li a{
+    color:white;
+    text-decoration: none;
+    font-size:20px;
+}
+.nav-container li a:hover{
+    background-color: gray;
+}
+#banner-image{
+    width:100%;
+    opacity:0.4;
+    border-radius: 30px;
+}
+.banner-title{
+    position:absolute;
+    top:40%;
+    left:45%;
+    font-size: 5em;
+}
+.banner-subtitle{
+    position:absolute;
+    top:53%;
+    left:50%;
+    font-size: 2em;
+    color:blue;
+
+}
+.products-heading{
+    margin:20px;
+    font-size: 50px;
+    text-align: center;
+}
+.products{
+    display:flex;
+    /horizontal aligment/
+    justify-content:space-evenly;
+}
+.product{
+    display:flex;
+     /* vertical aligment*/
+    align-items:center;
+}
+.product-text{
+    font-size: 1.5em;
+}
+#product-ramipril{
+    width: 100px;
+    height: 100px;
+}
+#product-amiodrone{
+    width: 100px;
+    height: 100px;
+}
+#product-digoxen{
+    width: 100px;
+    height: 100px;
+}
+#product-losarten{
+    width: 100px;
+    height: 100px;
+}
+#product-statins{
+    width: 100px;
+    height: 100px;
+}
+#product-warfarin{
+    width: 100px;
+    height: 100px;
+}
+
+/* .contact-container{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+} */
+.contact-heading{
+    margin:10px;
+    font-size: 50px;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    font-size: medium;
+}
+
+
+#products-container{
+    background-color: lavender;
+    border-radius: 30px;
+}
+
+#contact-container{
+    background-color: pink;
+    border-radius: 30px;
+
+}
+header{
+    text-align: center;
+    background-color: aqua;
+    font-size: x-large;
+    padding: 20px;
+    border-radius: 30px;
+}
